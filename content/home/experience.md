@@ -22,29 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Student - BSc in Computer Science
+    company: Sapientia Hungarian University of Transylvania
+    company_url: http://www.sapientia.ro/en
+    company_logo: sapientia-logo-en
+    location: Târgu Mureș, Romania
+    date_start: "2018-09-01"
+    date_end: "2021-07-01"
     description: |2-
-        Responsibilities include:
+        Main subjects:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Basics of programming
+        * Databases
+        * Object-oriented/logic/functional programming
+        * Mobile/web development
+        * Graph theory
+        * Neural networks
+        * Data mining
+  - title: Summer internship
+    company: minic studio
+    company_url: https://minic.ro/en/
+    company_logo: minic-logo
+    location: Odorheiu Secuiesc, Romania
+    date_start: "2020-07-01"
+    date_end: "2020-09-01"
+    description: Developing a Single-page web application in reactJS, called PlanAt.
 
 design:
-  columns: '2'
+  columns: "2"
 ---

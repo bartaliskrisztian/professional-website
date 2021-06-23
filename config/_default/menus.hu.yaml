@@ -1,0 +1,16 @@
+main:
+  - name: Home
+    url: "#about"
+    weight: 10
+  - name: Tapasztalat
+    url: "#experience"
+    weight: 20
+  - name: Elért eredmények
+    url: "#accomplishments"
+    weight: 60
+  - name: Projecktek
+    url: "#projects"
+    weight: 30
+  - name: Elérés
+    url: "#contact"
+    weight: 60

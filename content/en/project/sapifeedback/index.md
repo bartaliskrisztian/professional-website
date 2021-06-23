@@ -5,11 +5,15 @@ tags:
   - Web
   - ReactJS
   - NodeJS
+  - ExpressJS
+  - Redux
   - Firebase
+  - Python
+  - Sockets
 date: "2021-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/bartaliskrisztian/sapifeedback#readme"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -20,6 +24,10 @@ links:
     icon_pack: fab
     name: Source code
     url: https://github.com/bartaliskrisztian/sapifeedback
+  - icon: play
+    icon_pack: fas
+    name: Demo
+    url: https://sapifeedback.herokuapp.com/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,5 +35,3 @@ url_video: ""
 
 slides: ""
 ---
-
-a

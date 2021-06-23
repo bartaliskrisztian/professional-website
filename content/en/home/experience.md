@@ -39,6 +39,14 @@ experience:
         * Graph theory
         * Neural networks
         * Data mining
+  - title: Digitális Kaláka hackathon
+    company: u-hub
+    company_url: https://u-hub.ro/?lang=en
+    company_logo: uhub_logo
+    location: Odorheiu Secuiesc, Romania
+    date_start: "2020-11-01"
+    date_end: "2020-11-01"
+    description: Developing an Android mobile application for local traders.
   - title: Summer internship
     company: minic studio
     company_url: https://minic.ro/en/

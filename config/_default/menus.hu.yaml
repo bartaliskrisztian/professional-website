@@ -1,16 +1,19 @@
 main:
-  - name: Home
+  - name: Biográfia
     url: "#about"
     weight: 10
+  - name: Szakismeret
+    url: "#skills"
+    weight: 30
   - name: Tapasztalat
     url: "#experience"
-    weight: 20
+    weight: 30
   - name: Elért eredmények
     url: "#accomplishments"
-    weight: 60
-  - name: Projecktek
+    weight: 40
+  - name: Projektek
     url: "#projects"
-    weight: 30
-  - name: Elérés
+    weight: 50
+  - name: Kontakt
     url: "#contact"
     weight: 60

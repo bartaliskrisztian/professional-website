@@ -13,7 +13,7 @@ headless: true
 
 weight: 30
 
-title: Skills
+title: Szakismeret
 subtitle:
 
 # Showcase personal skills or business features.

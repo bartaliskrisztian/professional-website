@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Projektjeim
 subtitle: ""
 
 content:
@@ -25,13 +25,13 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Összes
       tag: "*"
     - name: Web
       tag: Web
-    - name: Mobile
+    - name: Mobil
       tag: Mobile
-    - name: Desktop
+    - name: Asztali
       tag: Desktop
 
 design:

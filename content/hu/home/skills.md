@@ -48,7 +48,7 @@ feature:
     icon_pack: fab
     name: git
   - description: ""
-    icon: C
+    icon: c
     icon_pack: custom
     name: C
   - description: ""

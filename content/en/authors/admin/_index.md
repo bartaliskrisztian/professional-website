@@ -38,7 +38,7 @@ social:
     link: https://github.com/bartaliskrisztian
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/kriszti%C3%A1n-bartalis-953441211/
+    link: https://www.linkedin.com/in/bartaliskrisztian/
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/bartalis.krisztian
@@ -56,6 +56,6 @@ email: "bartaliskrisztian4@gmail.com"
 highlight_name: false
 ---
 
-I am a freshly graduated computer science student.
+I am a hardworking, passionate, final year student at Sapientia Hungarian University of Transylvania, studying for a B.Sc. Honours degree in Computer Science. My main goal is to constantly improve myself professionally and personally as well. As a software developer, I am always looking for solutions for current problems, deficiencies. I am mostly interested in modern problem solving, software development (web and mobile as well), and artificial intelligence.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

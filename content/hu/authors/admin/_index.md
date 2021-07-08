@@ -14,7 +14,7 @@ organizations:
     url: http://www.sapientia.ro
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web development, artificial intelligence.
+bio: Főként a webfejlesztés, mesterséges intelligencia érdekel.
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Infromatika BSc
+    - course: Informatika BSc
       institution: Sapientia Erdélyi Magyar Tudományegyetem
       year: 2021
 
@@ -58,4 +58,4 @@ highlight_name: false
 
 Egy szorgalmas, szenvedélyes, végzős hallgató vagyok a Sapientia Erdélyi Magyar Tudományegyetem informatika szakán. Fő célom a folyamatos fejlődés úgy szakmai, mint személyes szinten. Szoftverfejlesztőként mindig a legmodernebb megoldásokat keresem a jelenlegi problémákra, hiányosságokra. Főként a probléma megoldás, szoftverfejlesztés (web és mobil egyaránt) és a mesterséges intellgencia tanulásában vagyok érdekelt.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}} letöltése.

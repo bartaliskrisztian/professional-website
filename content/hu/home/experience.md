@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Tapasztalat
 subtitle:
 
 # Date format for experience
@@ -22,39 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Student - BSc in Computer Science
-    company: Sapientia Hungarian University of Transylvania
-    company_url: http://www.sapientia.ro/en
+  - title: Hallgató - BSc, Informatika szak
+    company: Sapientia Erdélyi Magyar Tudományegyetem
+    company_url: http://www.sapientia.ro
     company_logo: sapientia-logo-en
-    location: Târgu Mureș, Romania
+    location: Marosvásárhely, Románia
     date_start: "2018-09-01"
     date_end: "2021-07-01"
     description: |2-
-        Main subjects:
+        Fontosabb tantárgyak:
         
-        * Basics of programming
-        * Databases
-        * Object-oriented/logic/functional programming
-        * Mobile/web development
-        * Graph theory
-        * Neural networks
-        * Data mining
+        * Programozás alapjai
+        * Adatbázisok
+        * Objektumorientált/logikai/funkcionális programozás
+        * Mobil-/webfejlesztés
+        * Gráf teória
+        * Neurális hálózatok
+        * Adatbányászat
   - title: Digitális Kaláka hackathon
     company: u-hub
     company_url: https://u-hub.ro/?lang=en
     company_logo: uhub_logo
-    location: Odorheiu Secuiesc, Romania
+    location: Székelyudvarhely, Románia
     date_start: "2020-11-01"
     date_end: "2020-11-01"
-    description: Developing an Android mobile application for local traders.
-  - title: Summer internship
+    description: Android mobilappikáció fejlesztése a heyli kereskedők számára.
+  - title: Nyári szakmai gyakorlat
     company: minic studio
     company_url: https://minic.ro/en/
     company_logo: minic-logo
-    location: Odorheiu Secuiesc, Romania
+    location: Székelyudvarhely, Románia
     date_start: "2020-07-01"
     date_end: "2020-09-01"
-    description: Developing a Single-page web application in reactJS, called PlanAt.
+    description: Webapplikáció fejlesztése reactJS-ben, melynek neve PlanAt.
 
 design:
   columns: "2"

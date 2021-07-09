@@ -44,6 +44,13 @@ item:
     organization_url: https://www.datacamp.com
     title: "Unsupervised Learning in Python"
     url: ""
+  - certificate_url: ""
+    date_start: "2018-01-01"
+    description: ""
+    organization: Cambridge Assessment English
+    organization_url: https://www.cambridgeenglish.org
+    title: "Cambridge English Certificate - B2 First"
+    url: ""
 
 design:
   columns: "2"

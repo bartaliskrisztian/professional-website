@@ -56,6 +56,6 @@ email: "bartaliskrisztian4@gmail.com"
 highlight_name: false
 ---
 
-I am a hardworking, passionate, final year student at Sapientia Hungarian University of Transylvania, studying for a B.Sc. Honours degree in Computer Science. My main goal is to constantly improve myself professionally and personally as well. As a software developer, I am always looking for solutions for current problems, deficiencies. I am mostly interested in modern problem solving, software development (web and mobile as well), and artificial intelligence.
+A fresh graduate of computer science, seeking a challenging yet rewarding job position in a progressive organization that will provide an opportunity to utilize my technical skills and improve myself constantly. As a software developer, I am always looking for solutions for current problems, deficiencies. I am mostly interested in modern problem solving, software development, and artificial intelligence.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/certificates/Bartalis_Zoltan_Krisztian_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -56,6 +56,6 @@ email: "bartaliskrisztian4@gmail.com"
 highlight_name: false
 ---
 
-Egy szorgalmas, szenvedélyes, végzős hallgató vagyok a Sapientia Erdélyi Magyar Tudományegyetem informatika szakán. Fő célom a folyamatos fejlődés úgy szakmai, mint személyes szinten. Szoftverfejlesztőként mindig a legmodernebb megoldásokat keresem a jelenlegi problémákra, hiányosságokra. Főként a probléma megoldás, szoftverfejlesztés (web és mobil egyaránt) és a mesterséges intellgencia tanulásában vagyok érdekelt.
+Frissen diplomázott informatika szakos hallgató vagyok, azt a munkát keresve, ahol megfelelően tesztelni tudom szakmai tudásomat és amely olyan környezetet nyújt, ahol sikeresen tudok fejlődni úgy szakmailag, mint ember. Szoftverfejlesztőként mindig a legmodernebb megoldásokat keresem a jelenlegi problémákra, hiányosságokra. Főként a probléma megoldás, szoftverfejlesztés (web és mobil egyaránt) és a mesterséges intellgencia tanulásában vagyok érdekelt.
 
 {{< icon name="download" pack="fas" >}}{{< staticref "uploads/certificates/Bartalis_Zoltan_Krisztian_Resume.pdf" "newtab" >}}Resumé{{< /staticref >}} letöltése.
